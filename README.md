@@ -1,5 +1,8 @@
 # Social Media Ad Campaign Performance Analysis
 
+
+### Context 
+A fast-food chain plans to add a new item to its menu. However, they are still undecided between three possible marketing campaigns for promoting the new product. In order to determine which promotion has the greatest effect on sales, the new item is introduced at locations in several randomly selected markets. A different promotion is used at each location, and the weekly sales of the new item are recorded for the first four weeks
 ## Project Overview
 This project focuses on analyzing the performance of different social media ad campaigns to identify which campaign delivers the best results. Using statistical analysis and hypothesis testing, the goal was to determine if there are significant differences in performance among the campaigns.
 
